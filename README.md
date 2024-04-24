@@ -1,1 +1,3 @@
-# Esquema-POO-Sistema-Banc-rio-Simples
+# Esquema POO Sistema Bancário Simples
+
+Em andamento...
